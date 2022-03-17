@@ -1,1 +1,0 @@
-Utilizando PHP com AJAX, implemente dois scripts: 1) função que ao ser acessada via URL, retorna as suas notas do ano letivo em formato JSON; e 2) tela que realiza a consulta para a função 1 e exibe a listagem de notas e disciplinas em formato de tabela.
